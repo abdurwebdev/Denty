@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Galgo Med';
+  src: url('../src/Components/Galgo.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: Galgo Med;
+}
